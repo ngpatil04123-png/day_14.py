@@ -5,4 +5,4 @@ this repo contains some basic python problems
 -list comprehension
 -Dictionary Comprehension:
 -spliting the sentence
--To Prints the entire matrix row by row.
+-To Prints the entire matrix row by row..
